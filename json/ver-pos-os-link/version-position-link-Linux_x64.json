@@ -1,4 +1,5 @@
 {
+  "101.0.4919.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/976489/",
   "101.0.4918.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/976192/",
   "101.0.4918.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/976192/",
   "101.0.4916.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/975732/",
@@ -97,6 +98,7 @@
   "100.0.4848.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/962309/",
   "100.0.4847.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/962282/",
   "100.0.4847.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/962282/",
+  "99.0.4844.55": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/961656/",
   "99.0.4844.54": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/961656/",
   "99.0.4844.53": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/961656/",
   "99.0.4844.52": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Linux_x64/961656/",
