@@ -1,4 +1,5 @@
 {
+  "101.0.4941.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/980313/",
   "101.0.4932.2": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/978687/",
   "101.0.4932.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/978687/",
   "101.0.4932.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/978687/",
@@ -33,6 +34,7 @@
   "101.0.4899.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/973319/",
   "101.0.4897.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/973196/",
   "101.0.4897.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/973196/",
+  "100.0.4896.42": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/972766/",
   "100.0.4896.41": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/972766/",
   "100.0.4896.40": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/972766/",
   "100.0.4896.39": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/972766/",
@@ -102,6 +104,7 @@
   "100.0.4848.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/962309/",
   "100.0.4847.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/962282/",
   "100.0.4847.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/962282/",
+  "99.0.4844.71": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/961656/",
   "99.0.4844.70": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/961656/",
   "99.0.4844.69": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/961656/",
   "99.0.4844.68": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/961656/",
