@@ -1,4 +1,6 @@
 {
+  "105.0.5191.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1025959/",
+  "105.0.5191.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1025959/",
   "105.0.5173.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1022531/",
   "105.0.5173.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1022531/",
   "105.0.5172.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1022495/",
@@ -38,6 +40,7 @@
   "105.0.5116.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1013303/",
   "105.0.5115.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1013275/",
   "105.0.5115.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1013275/",
+  "104.0.5112.58": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1012729/",
   "104.0.5112.57": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1012729/",
   "104.0.5112.56": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1012729/",
   "104.0.5112.55": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/1012729/",
@@ -189,6 +192,7 @@
   "101.0.4899.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/973319/",
   "101.0.4898.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/973271/",
   "101.0.4898.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/973271/",
+  "100.0.4896.237": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/972766/",
   "100.0.4896.236": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/972766/",
   "100.0.4896.235": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/972766/",
   "100.0.4896.234": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Android/972766/",
