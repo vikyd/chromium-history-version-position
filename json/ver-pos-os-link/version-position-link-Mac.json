@@ -1,4 +1,6 @@
 {
+  "120.0.6054.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1206846/",
+  "120.0.6054.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1206846/",
   "120.0.6052.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1206727/",
   "120.0.6052.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1206727/",
   "119.0.6044.5": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1203869/",
@@ -250,6 +252,7 @@
   "117.0.5852.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1162131/",
   "117.0.5851.1": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1162091/",
   "117.0.5851.0": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1162091/",
+  "116.0.5845.240": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1160321/",
   "116.0.5845.239": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1160321/",
   "116.0.5845.238": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1160321/",
   "116.0.5845.237": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Mac/1160321/",
